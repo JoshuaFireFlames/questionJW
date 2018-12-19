@@ -31,6 +31,6 @@ while answered == False: #This is the while loop to reread the questions
         print("Please read answer choices.") # Non-integer response
 
 #Score
-print("quiz score:", score * 100, "%")
+print("you got:", score * 100, "% on the quiz")
 
 
